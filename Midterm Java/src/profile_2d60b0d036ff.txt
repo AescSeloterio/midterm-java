@@ -1,0 +1,5 @@
+fullName|Aesc Seloterio
+studentId|2026-0001
+program|BS Computer Science
+yearLevel|1st Year
+section|1-A
