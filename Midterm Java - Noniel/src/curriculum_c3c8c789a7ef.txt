@@ -1,0 +1,8 @@
+1|1|CIC 111|Introduction to Computing|3
+1|1|CFP 110|Fundamentals in Programming|3
+1|1|GE 100|Mathematics in the Modern World|3
+1|1|GE 7|Understanding the Self|3
+1|1|CPC 121|Professional Issues in Computing|3
+1|1|GE 1|Purposive Communication|3
+1|1|NSTP 1|National Service Training Program 1|3
+1|1|PATHFIT 101|Physical Activities Toward Health and Fitness 101|2

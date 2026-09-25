@@ -1,0 +1,5 @@
+fullName|Ian Humphrey I. Seloterio
+studentId|202600359
+program|BS Computer Science
+yearLevel|1st Year
+section|1-A
