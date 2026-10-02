@@ -1,0 +1,8 @@
+Monday & Wednesday|2:00 PM|3:30 PM|GE 7 - Understanding the Self|Room 21|Lecture
+Monday & Wednesday|3:30 PM|5:00 PM|GE 100 - Mathematics in the Modern World|Room 21|Lecture
+Monday & Wednesday|5:00 PM|6:30 PM|GE 1 - Purposive Communication|Room 21|Lecture
+Tuesday|2:30 PM|5:30 PM|CIC 111 - Professional Issues in Computing|Room 21|Lecture
+Thursday|12:30 PM|3:30 PM|NSTP 1 - National Service Training Program|Room 21|Lecture
+Thursday|4:00 PM|6:00 PM|Pathfit 101 - Movement Enhancement|A Building|Lecture
+Friday|12:30 PM|5:30 PM|CFP 110 - Fundamentals in Programming|Computer Laboratory 2|Laboratory
+Saturday|1:00 PM|6:00 PM|CIC 111 - Introduction to Computing|Computer Laboratory 1|Laboratory

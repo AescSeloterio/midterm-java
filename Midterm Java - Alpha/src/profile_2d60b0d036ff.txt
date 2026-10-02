@@ -1,0 +1,10 @@
+fullName|Ian Humphrey I. Seloterio
+studentId|202600359
+program|BS Computer Science
+yearLevel|1st Year
+section|1-A
+email|seloterioianhumphrey@gmail.com
+mobile|09913769356
+address|Bagumbayan 2, Maribago, Lapu-lapu, Cebu, Philippines
+gender|Male
+profilePicture|default.png
